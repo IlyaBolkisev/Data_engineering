@@ -1,0 +1,53 @@
+Company,Contact,Country,Price,Item
+Salon Suites,+63665794653,Panama,79402₽,hair
+Elegant Ensembles,+44359812705,Peru,67880₽,user
+Clipper Cuts,+34813590417,Chad,49083₽,mode
+Dapper Designs,+64183184036,Morocco,78330₽,marriage
+Salon Suites,+74486643146,Albania,73790₽,office
+Elite Elegance,+56623842910,Thailand,73040₽,homework
+Chic Boutique,+83275229761,Cyprus,67423₽,truth
+Skin Studio,+49259176574,Bolivia,61569₽,departure
+Classy Chic,+39589820180,Namibia,75162₽,departure
+Makeup Maven,+28435267098,France,64926₽,mixture
+Trendsetting Tailors,+84831461858,Sweden,90009₽,stranger
+Sophisticated Sewing,+55673656669,Sao Tome and Principe,13312₽,death
+Nail Nook,+90239058077,Argentina,46572₽,passenger
+Dapper Designs,+3133475633,Philippines,95217₽,agreement
+Posh Patterns,+60146282245,Macedonia,28497₽,classroom
+Body Bliss,+14757353835,Samoa,51296₽,addition
+Fashion Forward,+1324838953,Togo,44861₽,cookie
+Elite Elegance,+39675170793,The Gambia,61873₽,mode
+Stellar Stitches,+76730817667,Malta,10018₽,revolution
+Classy Chic,+69659803327,United States of America,46878₽,description
+Makeup Maven,+6558881245,United Kingdom,66788₽,perception
+Stylish Silhouettes,+79271414258,San Marino,32340₽,family
+Haute Hues,+1169623228,Libya,29796₽,awareness
+Glamour Galore,+78809135592,Latvia,23833₽,thanks
+Elegant Ensembles,+61707645835,Nicaragua,45324₽,data
+Stylish Silhouettes,+55117606183,Colombia,48585₽,newspaper
+Refined Rags,+66554718079,Honduras,54090₽,community
+Lash Lounge,+24780311757,Nepal,61393₽,signature
+Stylish Silhouettes,+41526283457,Japan,88302₽,dad
+Sleek Styles,+68723310858,Bahrain,67384₽,advertising
+Crisp Creations,+15277472802,Liberia,26036₽,opinion
+Classy Collections,+74481932860,Cape Verde,99111₽,hat
+Modish Mannequins,+52401764597,Ecuador,16993₽,office
+Smart Styles,+1644383303,Germany,52652₽,drama
+Chic Couture,+49555482188,Oman,69430₽,cookie
+Elite Elegance,+44203445468,Sierra Leone,74132₽,buyer
+Posh Patterns,+98757645128,Tanzania,21127₽,signature
+Fashion Forward,+24715007519,Turkey,23959₽,homework
+Body Bliss,+4254566744,Montenegro,28782₽,context
+Fashion Forward,+84655056434,Jordan,36577₽,breath
+Modish Mannequins,+42136170449,Russia,75242₽,entry
+Crisp Creations,+96601943351,Mozambique,93640₽,republic
+Smart Styles,+41879281963,Samoa,25244₽,newspaper
+Posh Patterns,+82407345698,Trinidad and Tobago,45577₽,wood
+Chic Boutique,+0368958889,Zambia,10300₽,emphasis
+Sophisticated Sewing,+32661010107,Canada,22307₽,entry
+Refined Rags,+54154948533,Dominican Republic,85459₽,classroom
+Sleek Styles,+85580121479,Croatia,17141₽,cigarette
+Glow Getter,+0626965062,Spain,65540₽,signature
+Nail Nook,+47665096369,Cape Verde,56836₽,opinion
+Trendsetting Tailors,+59213815263,Andorra,73845₽,pie
+Glow Getter,+35466902513,Malawi,67692₽,affair
